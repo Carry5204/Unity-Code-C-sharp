@@ -1,1 +1,1 @@
-# Unity-Code-C-
+MoveCharater是移動角色，ShootObject是發射物件
